@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-12-03T16:01:37 IST" name="Default suite" finished-at="2023-12-03T16:01:47 IST" duration-ms="9869">
+    <groups>
+    </groups>
+    <test started-at="2023-12-03T16:01:37 IST" name="Default test" finished-at="2023-12-03T16:01:47 IST" duration-ms="9869">
+      <class name="KishanPractice.TestNG.TestNgTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:KishanPractice.TestNG.TestNgTest@1a942c18]" started-at="2023-12-03T16:01:37 IST" name="setup" finished-at="2023-12-03T16:01:44 IST" duration-ms="6784" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="radioButtons()[pri:0, instance:KishanPractice.TestNG.TestNgTest@1a942c18]" started-at="2023-12-03T16:01:44 IST" name="radioButtons" finished-at="2023-12-03T16:01:45 IST" duration-ms="413" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- radioButtons -->
+        <test-method signature="countrySuggestion()[pri:1, instance:KishanPractice.TestNG.TestNgTest@1a942c18]" started-at="2023-12-03T16:01:45 IST" name="countrySuggestion" finished-at="2023-12-03T16:01:47 IST" duration-ms="2294" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- countrySuggestion -->
+        <test-method signature="dropdown()[pri:3, instance:KishanPractice.TestNG.TestNgTest@1a942c18]" started-at="2023-12-03T16:01:47 IST" name="dropdown" finished-at="2023-12-03T16:01:47 IST" duration-ms="191" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dropdown -->
+        <test-method signature="checkBox()[pri:4, instance:KishanPractice.TestNG.TestNgTest@1a942c18]" started-at="2023-12-03T16:01:47 IST" name="checkBox" finished-at="2023-12-03T16:01:47 IST" duration-ms="107" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkBox -->
+        <test-method is-config="true" signature="end()[pri:0, instance:KishanPractice.TestNG.TestNgTest@1a942c18]" started-at="2023-12-03T16:01:47 IST" name="end" finished-at="2023-12-03T16:01:47 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- end -->
+      </class> <!-- KishanPractice.TestNG.TestNgTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
